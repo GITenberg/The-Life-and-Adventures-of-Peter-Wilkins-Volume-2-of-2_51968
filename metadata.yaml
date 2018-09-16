@@ -1,0 +1,37 @@
+_repo: The-Life-and-Adventures-of-Peter-Wilkins-Volume-2-of-2_51968
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Bullen, Arthur Henry
+    - Butler, A. H.
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+creator:
+  author:
+    agent_name: Paltock, Robert
+    birthdate: 1697
+    deathdate: 1767
+    gutenberg_agent_id: '24763'
+    url: http://www.gutenberg.org/2009/agents/24763
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Paltock
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- GITenberg
+title: The Life and Adventures of Peter Wilkins, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/51968
