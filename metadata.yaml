@@ -1,5 +1,5 @@
 _repo: The-Life-and-Adventures-of-Peter-Wilkins-Volume-2-of-2_51968
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Bullen, A. H. (Arthur Henry)
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '3753'
     url: http://www.gutenberg.org/2009/agents/3753
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+covers:
+- cover_type: archival
+  image_path: 51968-h/images/cover.jpg
 creator:
   author:
     agent_name: Paltock, Robert
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24763
     wikipedia: http://en.wikipedia.org/wiki/Robert_Paltock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51968#The-Life-and-Adventures-of-Peter-Wilkins-Volume-2-of-2
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
